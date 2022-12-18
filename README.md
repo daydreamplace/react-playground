@@ -1,1 +1,1 @@
-# study-for-react
+# React Playground
